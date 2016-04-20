@@ -2,6 +2,8 @@
 
 Light Atom theme inspired by [a galaxy far far away...](https://raw.githubusercontent.com/nick-f/an-old-hope-light-syntax-atom/master/a-new-hope.jpg) It is an elegant theme for a more civilised age.
 
+Based on [An Old Hope](https://atom.io/themes/an-old-hope-syntax) by [Jesse Leite](https://github.com/JesseLeite)
+
 ![palette](https://raw.githubusercontent.com/nick-f/an-old-hope-light-syntax-atom/master/palette.jpg)
 
 ## UI Integration
