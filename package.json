@@ -1,14 +1,15 @@
 {
-  "name": "an-old-hope-syntax",
+  "name": "an-old-hope-light-syntax",
   "theme": "syntax",
   "version": "0.5.0",
-  "description": "Atom theme inspired by a galaxy far far away...",
+  "description": "Light Atom theme inspired by a galaxy far far away... It is an elegant theme for a more civilised age.",
   "keywords": [
     "syntax",
     "theme",
-    "star wars"
+    "star wars",
+    "light"
   ],
-  "repository": "https://github.com/jesseleite/an-old-hope-syntax-atom",
+  "repository": "https://github.com/nick-f/an-old-hope-light-syntax-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
