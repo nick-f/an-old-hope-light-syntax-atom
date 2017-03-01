@@ -1,4 +1,5 @@
-Copyright (c) 2015 Jesse Leite
+Original theme copyright (c) 2015 Jesse Leite
+Light theme modifications copyright (c) 2016 Nick Freeland
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
